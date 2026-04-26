@@ -56,3 +56,10 @@ Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC).
 ## 📌 Status
 
 Finalizado e disponível para fins de portfólio e estudos.
+
+## License
+
+All Rights Reserved.
+
+This project is available for portfolio demonstration only.
+Unauthorized use, copying or redistribution is prohibited.
