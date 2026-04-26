@@ -10,9 +10,9 @@ import java.sql.*;
 public class Conexao {
     public Connection conexao;
     
-    static String usuario = "autogenius";
-    static String senha = "mFRsmBsd4zpbMxjiHT2EPe2hEOfWbB6i";
-    static String database = "oficina_r1lp";
+    static String usuario = "#######";
+    static String senha = "#########";
+    static String database = "######";
     
     //static String url = "jdbc:mysql://localhost:3306/" + database; //MySql
     static String url = "jdbc:postgresql://dpg-d7n03b0sfn5c73dp94g0-a.oregon-postgres.render.com:5432/" + database +"?sslmode=require"; //Postgres
