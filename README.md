@@ -8,7 +8,7 @@ O sistema foi desenvolvido para auxiliar na gestão de oficinas mecânicas, perm
 
 ## 🛠️ Funcionalidades
 
-### Cadastros | alteração | Exclusão
+### Cadastros | Alteração | Exclusão
 - Clientes
 - Funcionários
 - Fornecedores
