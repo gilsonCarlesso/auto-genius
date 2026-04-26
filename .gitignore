@@ -1,0 +1,9 @@
+*.class
+build/
+target/
+out/
+.idea/
+*.iml
+.vscode/
+*.log
+.env
